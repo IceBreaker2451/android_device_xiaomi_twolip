@@ -1,5 +1,11 @@
 [
  {
+    "repository" : "LineageOS/android_hardware_xiaomi",
+    "target_path": "hardware/xiaomi",
+    "remote"     : "github",
+    "revision"   : "lineage-19.1"
+ },
+ {
     "repository" : "we-r-friends-collab/vendor_xiaomi_twolip",
     "target_path": "vendor/xiaomi/twolip",
     "remote"     : "github",
