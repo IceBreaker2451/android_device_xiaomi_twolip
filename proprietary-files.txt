@@ -1068,6 +1068,12 @@ vendor/lib64/libqmi_csi.so|7e19c2266b7f63f3f9e69c039b1446acd460231b
 vendor/lib64/libqmi_encdec.so|a18bb21e5b9b53e3dc8dc45f6e7e65e32a467607
 vendor/lib64/libqmiservices.so|52770edf3e35f5376f3d0a131636f3213c9e59fa
 
+# QRTR - from jasmine V11.0.21.0.QDIMIXM
+vendor/bin/qrtr-cfg|f2433cbff23c57f531882a70e33e066f9f02d919
+vendor/bin/qrtr-lookup|54e4244db1166ee9ebc92218b3214eedaee9b42d
+vendor/bin/qrtr-ns|90a5a0c488b09fed69e4f402eb30d0c22340fcba
+vendor/lib64/libqrtr.so|9addbb504885bb2a82e0b19e38077742bc48c10f
+
 # Radio - from ddv_sprout
 system_ext/app/QtiTelephonyService/QtiTelephonyService.apk|712ba653c60066e815b62cd54589e8511bcdb8f9
 system_ext/etc/permissions/qcrilhook.xml|30397e293b2c40e6b7a1d11c2a615cdd05de625a
