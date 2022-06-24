@@ -421,6 +421,13 @@ PRODUCT_PACKAGES += \
     libcamera_sdm660_shim \
     libims_shim
 
+# Telephony
+PRODUCT_PACKAGES += \
+    telephony-ext
+
+PRODUCT_BOOT_JARS += \
+    telephony-ext
+
 # Tetheroffload
 PRODUCT_PACKAGES += \
     ipacm \
