@@ -15,6 +15,9 @@ $(call inherit-product-if-exists, vendor/xiaomi/gcam/gcam.mk)
 # Indicate the first api level the device has been commercially launched on
 PRODUCT_SHIPPING_API_LEVEL := 27
 
+# Board
+TARGET_BOARD_PLATFORM := sdm660
+
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(DEVICE_PATH)/overlay
