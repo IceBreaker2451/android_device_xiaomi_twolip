@@ -373,6 +373,7 @@ PRODUCT_PACKAGES += \
 
 # QTI
 TARGET_COMMON_QTI_COMPONENTS := \
+    perf \
     usb
 
 # RIL
